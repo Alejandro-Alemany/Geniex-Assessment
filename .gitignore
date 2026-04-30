@@ -8,6 +8,4 @@ build/
 .venv/
 venv/
 submission/
-grading_results.json
-solution.md
-decisions.md
+grading_results.jso
